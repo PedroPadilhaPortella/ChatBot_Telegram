@@ -1,3 +1,0 @@
-Use this token to access the HTTP API:
-5200899633:AAFcRLNjNo6Y23Ua0zWFaJs2ZblafLxGZN8
-Keep your token secure and store it safely, it can be used by anyone to control your bot.

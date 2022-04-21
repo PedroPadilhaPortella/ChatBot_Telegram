@@ -15,7 +15,7 @@ conn = pymysql.connect(
 
 user = User()
 
-API_TOKEN = '5200899633:AAFcRLNjNo6Y23Ua0zWFaJs2ZblafLxGZN8' #KADJINSPKN -> KadjinSPKNBot
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 
 

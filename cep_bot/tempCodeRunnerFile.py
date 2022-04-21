@@ -1,1 +1,0 @@
-print("CEP Bot rodando...")

@@ -1,7 +1,7 @@
 #-- coding utf-8 --
 import telebot
 
-API_TOKEN = '5200899633:AAFcRLNjNo6Y23Ua0zWFaJs2ZblafLxGZN8' #KADJINSPKN -> KadjinSPKNBot
+API_TOKEN = ''
 bot = telebot.TeleBot(API_TOKEN)
 
 @bot.message_handler(commands=['start'])
