@@ -1,0 +1,1 @@
+print("CEP Bot rodando...")
